@@ -1,36 +1,13 @@
-# Automa-oAccenture
-Desafio-QA-Automation-Accenture
-Olá ,
+O projeto foi desenvolvido utilizando Java, Maven, Selenium, Cucumber e Rest-Assured, contemplando testes automatizados de interface e API.
 
-Conforme solicitado, estou encaminhando o link do projeto referente ao desafio de automação de testes para a vaga de QA na Accenture.
+Para executar o projeto, basta utilizar o comando:
 
-📁 Repositório GitHub:
-🔗 https://github.com/AlissonQA/Automa-oAccenture
+mvn clean install
 
-Este projeto foi desenvolvido utilizando:
+Observação: durante a execução dos testes de interface, identifiquei um ponto pendente no fechamento do modal de resultado: o botão **Close** não está fechando a janela conforme esperado. Esse comportamento ainda precisa de ajuste.
 
-Java
-
-Maven
-
-Selenium
-
-Cucumber
-
-Rest-Assured
-
-Estrutura orientada a testes de API com integração ao Cucumber e execução via Maven.
-
-Caso precisem de instruções para executar os testes, basta rodar:
-
-bash
-Copiar
-Editar
-mvn test
-Se houver necessidade de ajustes, melhorias ou dúvidas sobre o projeto, fico à disposição para esclarecimentos.
-
-Agradeço pela oportunidade e atenção.
-
-Atenciosamente,
-Alisson Santos de Andrade
-[(11)95382-2689 / www.linkedin.com/in/alisson-santos-3aaa35190 / alisson9906@gmail.com]
+Atenciosamente,  
+Alisson Santos de Andrade  
+Telefone: (11) 95382-2689  
+LinkedIn: https://www.linkedin.com/in/alisson-santos-3aaa35190  
+E-mail: alisson9906@gmail.com
